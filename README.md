@@ -20,7 +20,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/dimasdh842/notes-reactjs/total) ![Contributors](https://img.shields.io/github/contributors/dimasdh842/notes-reactjs?color=dark-green) ![Issues](https://img.shields.io/github/issues/dimasdh842/notes-reactjs) ![License](https://img.shields.io/github/license/dimasdh842/notes-reactjs) 
+![Downloads](https://img.shields.io/github.com/dimasdh842/K-Notes/total) ![Contributors](https://img.shields.io/github.com/dimasdh842/K-Notes?color=dark-green) ![Issues](https://img.shields.io/github.com/dimasdh842/K-Notes) ![License](https://img.shields.io/github.com/dimasdh842/K-Notes) 
 
 ## Table Of Contents
 
@@ -96,7 +96,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 1. Clone the repo
 
 ```sh
-git clone https://github.com/dimasdh842/notes-reactjs
+git clone https://github.com/dimasdh842/K-Notes
 ```
 
 3. Install NPM packages
