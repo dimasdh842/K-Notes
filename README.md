@@ -20,7 +20,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github.com/dimasdh842/K-Notes/total) ![Contributors](https://img.shields.io/github.com/dimasdh842/K-Notes?color=dark-green) ![Issues](https://img.shields.io/github.com/dimasdh842/K-Notes) ![License](https://img.shields.io/github.com/dimasdh842/K-Notes) 
+![Downloads](https://img.shields.io/github/dimasdh842/K-Notes/total) ![Contributors](https://img.shields.io/github/dimasdh842/K-Notes?color=dark-green) ![Issues](https://img.shields.io/github/dimasdh842/K-Notes) ![License](https://img.shields.io/github/dimasdh842/K-Notes) 
 
 ## Table Of Contents
 
