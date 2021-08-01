@@ -141,6 +141,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/dimasdh842/n
 
 ## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
+* [Mohammad Firmansyah](https://github.com/dimasdh842)
 * [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
+* [firmansmoh](https://mrrangga.github.io)
