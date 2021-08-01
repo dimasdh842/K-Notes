@@ -1,4 +1,55 @@
-# Getting Started with Create React App
+<br/>
+<p align="center">
+  <a href="https://github.com/dimasdh842/notes-reactjs">
+    <img src="public/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">K-notes</h3>
+
+  <p align="center">
+    An simple way to keep your notes built with React.js and firebase.
+    <br/>
+    <br/>
+    <a href="https://github.com/dimasdh842/notes-reactjs"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/dimasdh842/notes-reactjs">View Demo</a>
+    .
+    <a href="https://github.com/dimasdh842/notes-reactjs/issues">Report Bug</a>
+    .
+  </p>
+</p>
+
+![Downloads](https://img.shields.io/github/downloads/dimasdh842/notes-reactjs/total) ![Contributors](https://img.shields.io/github/contributors/dimasdh842/notes-reactjs?color=dark-green) ![Issues](https://img.shields.io/github/issues/dimasdh842/notes-reactjs) ![License](https://img.shields.io/github/license/dimasdh842/notes-reactjs) 
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
+
+![Screen Shot](SS.png)
+
+This app was created because I want to keep my idea in my notes but there are many platform offers too many feature so I built my own simple notes
+
+## Built With
+
+k-notes built with React.js and firebase 
+
+## Getting Started
+
+K-notes is simple project of React.js so the configuration mostly the same with configuration of react.js initial project
+
+### Prerequisites
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,32 +90,57 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone the repo
 
-### Code Splitting
+```sh
+git clone https://github.com/dimasdh842/notes-reactjs
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. Install NPM packages
 
-### Analyzing the Bundle Size
+```sh
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4. Run the project
 
-### Making a Progressive Web App
+```sh
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Roadmap
 
-### Advanced Configuration
+See the [open issues](https://github.com/dimasdh842/notes-reactjs/issues) for a list of proposed features (and known issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contributing
 
-### Deployment
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/dimasdh842/notes-reactjs/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/dimasdh842/notes-reactjs/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Creating A Pull Request
 
-### `npm run build` fails to minify
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/dimasdh842/notes-reactjs/blob/main/LICENSE.md) for more information.
+
+## Authors
+
+* **Mohammad Firmansyah** - *Comp Science Student* - [Mohammad Firmansyah](https://github.com/dmasdh842/) - *Built initial project*
+
+## Acknowledgements
+
+* [ShaanCoding](https://github.com/ShaanCoding/)
+* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
+* [ImgShields](https://shields.io/)
