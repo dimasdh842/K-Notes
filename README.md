@@ -108,7 +108,7 @@ npm install
 4. Run the project
 
 ```sh
-npm install
+npm start
 ```
 
 ## Roadmap
