@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dimasdh842/K-Notes/static/css/main.611d094d.chunk.css",
+    "main.js": "/dimasdh842/K-Notes/static/js/main.4c41114b.chunk.js",
+    "main.js.map": "/dimasdh842/K-Notes/static/js/main.4c41114b.chunk.js.map",
+    "runtime-main.js": "/dimasdh842/K-Notes/static/js/runtime-main.0df04314.js",
+    "runtime-main.js.map": "/dimasdh842/K-Notes/static/js/runtime-main.0df04314.js.map",
+    "static/js/2.8d30d79d.chunk.js": "/dimasdh842/K-Notes/static/js/2.8d30d79d.chunk.js",
+    "static/js/2.8d30d79d.chunk.js.map": "/dimasdh842/K-Notes/static/js/2.8d30d79d.chunk.js.map",
+    "static/js/3.57039f27.chunk.js": "/dimasdh842/K-Notes/static/js/3.57039f27.chunk.js",
+    "static/js/3.57039f27.chunk.js.map": "/dimasdh842/K-Notes/static/js/3.57039f27.chunk.js.map",
+    "index.html": "/dimasdh842/K-Notes/index.html",
+    "static/css/main.611d094d.chunk.css.map": "/dimasdh842/K-Notes/static/css/main.611d094d.chunk.css.map",
+    "static/js/2.8d30d79d.chunk.js.LICENSE.txt": "/dimasdh842/K-Notes/static/js/2.8d30d79d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0df04314.js",
+    "static/js/2.8d30d79d.chunk.js",
+    "static/css/main.611d094d.chunk.css",
+    "static/js/main.4c41114b.chunk.js"
+  ]
+}
