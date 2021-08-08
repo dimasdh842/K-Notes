@@ -13,7 +13,7 @@
     <a href="https://github.com/dimasdh842/notes-reactjs"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/dimasdh842/notes-reactjs">View Demo</a>
+    <a href="https://keen-bhabha-ac145f.netlify.app/#/login">View Demo</a>
     .
     <a href="https://github.com/dimasdh842/notes-reactjs/issues">Report Bug</a>
     .
